@@ -1,0 +1,81 @@
+ ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  padding-left: 50px;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+#logo {
+	background-color: #333;
+}
+#miguel {
+	float:right; 
+	margin:10px;
+	width: 150px;
+	border: double;
+}
+
+
+p {
+	padding-left: 100px;
+}
+h2 {
+	padding-left: 70px;
+}
+h4 {
+	padding-left: 80px;
+}
+#fotos {
+            margin: auto;
+            width:90%;
+            
+            column-count: 3;
+        }
+#galeria {
+	background-color: orange;
+	border: double
+}
+
+h5 {
+	padding-right: 20px;
+}
+form {
+  text-align: center;
+  position: relative;
+  border-radius: 200px;
+
+  width  : 440px;
+  height : 498px;
+  margin : 0 auto;
+
+  background: white;
+  color: black;
+  padding: 30px;
+}
+#nombre {
+	border-color: ;
+}
+#boton {
+	background: #90EE90; 
+	padding: 10px; 
+	color: white;
+	width: 300px;
+}
