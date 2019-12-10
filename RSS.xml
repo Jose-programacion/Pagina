@@ -17,6 +17,13 @@
 			<link>https://www.cuatro.com</link>
 			<description>Noticias de actualidad de la Cuatro</description>
 		</item>
+
+		<item>
+			<title>Noticias 24h rtve</title>
+			<link>http://www.rtve.es/noticias/24-horas/</link>
+			<description>Noticias del canal 24h</description>
+		</item>
+
 	</channel>
 </rss>
 
