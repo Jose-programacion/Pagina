@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 
@@ -21,27 +20,3 @@
 	</channel>
 </rss>
 
-=======
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
-
-	<channel>
-		<title>Canal RSS de Jose Antonio Rey</title>
-		<link>http://pagina-git-pajaros.apps.us-west-1.starter.openshift-online.com/examen.html</link>
-		<description>Pagina donde se ubica el RSS</description>
-
-		<item>
-			<title>Noticias de antena 3</title>
-			<link>https://www.antena3.com</link>
-			<description>Noticias de actualidad de antena 3</description>
-		</item>
-
-		<item>
-			<title>Noticias de la Cuatro</title>
-			<link>https://www.cuatro.com</link>
-			<description>Noticias de actualidad de la Cuatro</description>
-		</item>
-	</channel>
-</rss>
-
->>>>>>> 0b5db7e35b0a5219e8450103d866f19994f5c761
