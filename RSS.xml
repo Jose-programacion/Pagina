@@ -5,25 +5,30 @@
 		<title>Canal RSS de Jose Antonio Rey</title>
 		<link>http://pagina-git-pajaros.apps.us-west-1.starter.openshift-online.com/examen.html</link>
 		<description>Pagina donde se ubica el RSS</description>
+		<category>Desarrollador Web</category>
+		<copyright>2020 Refsnes Data as. All rights reserved.</copyright>
+		<imgage>
+			<url>https://www.w3schools.com/images/logo.gif</url>
+		</imgage>
+		<author>jreydelgado@gmail.com</author>
+		<lastBuildDate>Lunes, 13 Enero 2020</lastBuildDate>
+
+
 
 		<item>
 			<title>Noticias de antena 3</title>
 			<link>https://www.antena3.com</link>
 			<description>Noticias de actualidad de antena 3</description>
+			<language>Español</language>
+			<comments>Es la cadena mas vista de 2019</comments>
 		</item>
 
 		<item>
 			<title>Noticias de la Cuatro</title>
 			<link>https://www.cuatro.com</link>
 			<description>Noticias de actualidad de la Cuatro</description>
+			<language>Español</language>
 		</item>
-
-		<item>
-			<title>Noticias 24h rtve</title>
-			<link>http://www.rtve.es/noticias/24-horas/</link>
-			<description>Noticias del canal 24h</description>
-		</item>
-
 	</channel>
 </rss>
 
