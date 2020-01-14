@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+	<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es-es">
+		<title type="text">LLMM Tarea RSS ATOM</title>
+		<id>http://pagina-git-pajaros.apps.us-west-1.starter.openshift-online.com/examen.html</id>
+		<link rel="self" type="application/atom+xml" href="http://pagina-git-pajaros.apps.us-west-1.starter.openshift-online.com/examen.html"/>
+		<description>Pagina donde se ubica el RSS</description>
+		<updated>14 Enero 2020, 11:50am</updated>
+		<language>es</language>
+		<author>
+			<name>Jose Antonio Rey Delgado</name>
+			<email>jreydelgado@gmail.com</email>
+		</author>
+
+
+		<entry>
+
+			<title>Noticias de antena 3</title>
+			<id>https://www.antena3.com</id>
+			<link rel="alternate" type="text/html" href="https://www.antena3.com"/>
+			<description>Noticias de actualidad de antena 3</description>
+			<updated>14 Enero 2020, 11:50am</updated>
+			<summary>Consulta las noticias de actualidad</summary>
+
+		</entry>
+
+		<entry>
+			<title>Noticias de la Cuatro</title>
+			<id>https://www.cuatro.com</id>
+			<link rel="alternate" type="text/html" href="https://www.cuatro.com"/>
+			<description>Noticias de actualidad de la Cuatro</description>
+			<updated>14 Enero 2020, 11:50am</updated>
+
+			<author>
+				<name>Mediaset</name>
+				<email>mediasetcom@mediaset.es</email>
+
+			</author>
+		</entry>
+
+
+	</feed>
